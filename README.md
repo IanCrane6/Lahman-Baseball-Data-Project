@@ -1,6 +1,8 @@
 # Lahman-Baseball-Data-Project
 Data ETL pipeline and regression models utilizing the Lahman Baseball database. Identifying financial features and other aspects of MLB team data that impact total season wins. You can run the Lahmna_Table_Build.py file to build a refined csv file with feature data. The Wins_Model.py can be ran on the csv file that is output from the first file.
 
+Lahman_Baseball_Report and Lahman_Baseball_Poster contain the results and analysis for a group project focused on the previously described files and the following abstract.
+
 Abstract:
 
 In baseball and more specifically Major League Baseball, the ability to accurately predict
