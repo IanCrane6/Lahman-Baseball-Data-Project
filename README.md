@@ -16,5 +16,5 @@ statistical edges before sportsbooks adjust. Most prior work focuses on predicti
 outcomes rather than full season wins. Even strong models achieve only about 60% accuracy at the game
 level, highlighting how difficult baseball is to predict (Soto Valero, 2016). Many studies also rely on
 limited time periods, older data, or a narrow set of features, which may not reflect modern MLB dynamics
-(Richards & Guell, 1998; Barry & Hartigan, 1993). Instead of predicting games one at a time, we will
+(Richards & Guell, 1998; Barry & Hartigan, 1993). Instead of predicting games one at a time, we
 directly model season-level win totals.
